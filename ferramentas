@@ -1,0 +1,27 @@
+Um codigo limpo segundo Joao Machine "busca proximidade a três valores: 
+expressividade, simplicidade e flexibilidade."
+Expressividade se relaciona com a facilidade de leitura do código fonte.
+Simplicidade a quantidade do que deve ser entendido deve ser mínimo.
+Flexibilidade é a facilidade com que o código aceita mudanças.
+
+"Dessa forma, a presenca de testes automatizados são as fundacão para o 
+desenvolvimento de um código limpo." 
+
+Estrutura Slides
+Primeiro: slides com as figuras das tres ferramentas.
+Segundo: Analizo
+		- Desenvolvido pela UFBA
+		- Metricas: a b c ...
+		- Linguagem suportadas: a b c
+
+Terceiro: PMD
+		
+
+
+
+A extracao das metricas necesssarias para mensurar os projetos foram retiradas de tres extratores principais: analizo, findbugs e pmd. 
+Cada um dos extratores fornecem metricas especificas que reunidas apresentam a figura do estado do projeto. O primeiro e mais estavel dos estratores é o analizo que é um projeto desenvolvido na Universidade Federal da Bahia (UFBA). O analizo tem como objetivo ser uma ferramenta automatizada para a extracao de metricas de codigo fonte. O analizo tem capacidade para extrair as principais metricas de software como por exemplo: {colocar metricas aqui}. 
+
+ 
+
+
