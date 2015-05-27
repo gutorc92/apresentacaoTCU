@@ -1,0 +1,35 @@
+Segundo Fenton e Pfleeger (1998), medição é o mapeamento de relações empíricas
+em relações formais. Isto é, quantificação em símbolos com objetivo de caracterizar uma
+entidade por meio de seus atributos. Ou seja, medir siginifica atribuir valores qualitativos
+ou quantitativos para uma determinada entidade baseado em seus atributos.
+
+
+As métricas podem ser classificadas em:
+Nominal = médicao categorica
+Ordinal = baseada em ordencao/os valores possuem ordem
+Intervalo = distancias iguais / soma e subtracao
+Racional = distancias igual mas com o zero absoluto sendo possivel/soma subtracao divisao e multiplicacao
+
+Objetivo da metrica:
+	De processo		
+	De produto
+		Interna / Codigo Fonte
+			Tamanho
+				LOC - sem comentarios e linhas em branco/devem estar na mesma linguagem
+				ACCM - Média da Complexidade Ciclomática
+				AMLOC - média do número de linhas de código por método
+			Orientacao a objetos
+				ACC - Conexoes Aferentes por Classe / numero de vezes que a classe é usada por outra classe
+				ANNP - Média do Número de Parametros por método
+				CBO - número total de classes do pacote que dependem de classes fora do pacote
+				DIT - Profundidade da aravores de heranca
+				LCOM4 - 
+				NOC - numero de filhos
+				NOM - numero de metodos
+				NPA - número de atributos publicos
+ 				RFC - 
+		Externas / Similares ao ambiente de producao
+		Qualidade em Uso / 
+Método de médicao:
+	Objetivas - númericas/automatica ou manual
+	Subjetivas - julgamento humano
